@@ -1,10 +1,10 @@
 const Router = require('express')
 const router = new Router()
-const deviceController = require('../controllers/deviceController')
+const courseController = require('../controllers/courseController')
 const checkRole = require('../middleware/checkRoleMiddleware')
 
 router.post('/', checkRole('ADMIN'), deviceController.create)
-router.get('/', deviceController.getAll)
-router.get('/:id', deviceController.getOne)
+router.get('/', courseController.getAll)
+router.get('/:id', courseController.getOne)
 
 module.exports = router
