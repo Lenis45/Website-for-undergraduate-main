@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f17bcaea-2651-4985-9712-80954adaa57e" name="Changes" comment="Refactoring, first update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NxeN75ke4CPqgmcEnbCVs4eRd9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/Website for undergraduate&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Website-for-undergraduate-courses-main\src\server" />
+      <recent name="C:\Users\User\source\repos\Website-for-undergraduate-courses-main\src" />
+      <recent name="C:\Users\User\source\repos\Website-for-undergraduate-courses-main\src\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Website-for-undergraduate-courses-main\src\client\src" />
+      <recent name="C:\Users\User\IdeaProjects\Website-for-undergraduate-courses-main\src\client\src\pages\Personal account" />
+      <recent name="C:\Users\User\IdeaProjects\Website-for-undergraduate-courses-main\src\client\src\pages\index" />
+      <recent name="C:\Users\User\IdeaProjects\Website-for-undergraduate-courses-main\src\client\src\pages\Catalog" />
+      <recent name="C:\Users\User\IdeaProjects\Website-for-undergraduate-courses-main\src\client\src\pages\Main" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f17bcaea-2651-4985-9712-80954adaa57e" name="Changes" comment="" />
+      <created>1680610118266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680610118266</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Refactoring, first update">
+      <created>1681814927935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681814927935</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactoring, first update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring, first update" />
+  </component>
+</project>
